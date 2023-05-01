@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title></title>
+    <link>https://nohamoamary.github.io/</link>
+    <description>Recent content on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 15 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://nohamoamary.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About Me 👩‍💻</title>
+      <link>https://nohamoamary.github.io/page/about/</link>
+      <pubDate>Sat, 15 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nohamoamary.github.io/page/about/</guid>
+      <description>Hello, my name is Noha and I am a software engineer and data scientist with expertise in machine learning. I began my career as a software engineer, where I honed my skills in algorithm development and programming. After two years in the industry, I took a break to explore other interests and gain new experiences. During this time, I discovered a passion for data science and machine learning. I decided to pursue this interest by diving into various online courses and attending workshops.</description>
+    </item>
+    
+    <item>
+      <title>Contact Information 📮</title>
+      <link>https://nohamoamary.github.io/page/contacts/</link>
+      <pubDate>Sat, 15 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nohamoamary.github.io/page/contacts/</guid>
+      <description>📧 E-mail: noha.mgomaa@gmail.com 👥 LinkedIn: Noha Moamary
+💻 GitHub: NohaMoAmary
+📄 Resume: View PDF
+📜 Certificate: Certificate folder</description>
+    </item>
+    
+    <item>
+      <title>STYLA</title>
+      <link>https://nohamoamary.github.io/projects/image-search/</link>
+      <pubDate>Thu, 02 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nohamoamary.github.io/projects/image-search/</guid>
+      <description>&lt;p&gt;An AI-Powered outfit recommender system for everyday use addresses the challenge of selecting the right outfit that matches personal style preferences and is appropriate for different occasions.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Heart Attack analysis</title>
+      <link>https://nohamoamary.github.io/projects/heart-attack-analysis-and-prediction/</link>
+      <pubDate>Wed, 28 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://nohamoamary.github.io/projects/heart-attack-analysis-and-prediction/</guid>
+      <description>&lt;p&gt;perform EDA and predict if a person is prone to a heart attack or not. Deployed the model using Streamlit&lt;/p&gt;
+&lt;p&gt;you can access the web app using the &lt;a href=&#34;https://nohamoamary-heart-attack-analysis-and-predi-model-deploy-zqr1im.streamlit.app/#heart-attack-analysis-prediction&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;link&lt;/a&gt;
+&lt;/p&gt;
+&lt;p&gt;and use these numbers as input&lt;/p&gt;
+&lt;p&gt;57,1,2,150.0,126.0,1,1,173,0,0.2,2,1,3,97.5&lt;/p&gt;
+&lt;p&gt;55,1,0,132.0,353.0,0,1,132,1,1.2,1,1,3,97.5&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Global terrorism analysis</title>
+      <link>https://nohamoamary.github.io/projects/tableau-project/</link>
+      <pubDate>Fri, 18 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://nohamoamary.github.io/projects/tableau-project/</guid>
+      <description>Task 4 as Data Science and Business Analytics intern at The Sparks Foundation.
+Performing exploratory data analysis on the Global terrorism dataset.
+link for Tableau Project !</description>
+    </item>
+    
+    <item>
+      <title>Image Captioning</title>
+      <link>https://nohamoamary.github.io/projects/image/</link>
+      <pubDate>Mon, 24 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://nohamoamary.github.io/projects/image/</guid>
+      <description>&lt;p&gt;Auto generation of captions for photos describing the objects, features and activity on the photo to help visually impaired people.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>game sales analysis</title>
+      <link>https://nohamoamary.github.io/projects/game-sales-analysis/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://nohamoamary.github.io/projects/game-sales-analysis/</guid>
+      <description>&lt;p&gt;project where I used the Plotly library to create a dashboard for analyzing video game sales data.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Sentimental Analysis of Arabic tweets</title>
+      <link>https://nohamoamary.github.io/projects/sentimental-analysis/</link>
+      <pubDate>Sun, 12 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://nohamoamary.github.io/projects/sentimental-analysis/</guid>
+      <description>In this project ,Sentimental analysis is done on Arabic tweets .An Arabic-Bert-base model from hugging face is used, it was pretrained on ~8.2 Billion words which sum up to ~95GB of text. The model achieved an accuracy of 90.16% and AUC of 0.966 on test set.
+1- Dataset was found on kaggle at this link: https://www.kaggle.com/mksaad/arabic-sentiment-twitter-corpus 2- Some preprocessing was done before using BERT including:
+Normalize Unicode encoding Removing urls,@,trailing white spaces Add [CLS] and [SEP] to the beginning and end of each sentence set a max_length through truncating or padding 3- A Bert classifier is used , along with Adam optimizer and a learning rate scheduler.</description>
+    </item>
+    
+    <item>
+      <title>dry beans classifier</title>
+      <link>https://nohamoamary.github.io/projects/dry-beans-classification/</link>
+      <pubDate>Wed, 08 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://nohamoamary.github.io/projects/dry-beans-classification/</guid>
+      <description>&lt;p&gt;a set of features extracted from the shape of the beans in images and it&amp;rsquo;s required to predict the type of each bean. There are 7 bean types in this dataset.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Seoul Bike Rental Prediction</title>
+      <link>https://nohamoamary.github.io/projects/bike-rental-prediction/</link>
+      <pubDate>Sat, 28 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://nohamoamary.github.io/projects/bike-rental-prediction/</guid>
+      <description>hourly rental data along with weather data.
+the training set is comprised of the first 20 days of each month, while the test set is the 21th to the end of the month.
+predict the total count of bikes rented during each hour covered by the test set, using only information available prior to the rental period.
+link for kaggle notebook !</description>
+    </item>
+    
+    <item>
+      <title>Car Crashes&#39; Severity Prediction</title>
+      <link>https://nohamoamary.github.io/projects/car-crashes-severity/</link>
+      <pubDate>Wed, 28 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://nohamoamary.github.io/projects/car-crashes-severity/</guid>
+      <description>predict the Severity of a car crash given info about the crash, e.g., location.
+link for kaggle notebook !</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Severity on </title>
+    <link>https://nohamoamary.github.io/tags/severity/</link>
+    <description>Recent content in Severity on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 28 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://nohamoamary.github.io/tags/severity/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Seoul Bike Rental Prediction</title>
+      <link>https://nohamoamary.github.io/projects/bike-rental-prediction/</link>
+      <pubDate>Sat, 28 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://nohamoamary.github.io/projects/bike-rental-prediction/</guid>
+      <description>hourly rental data along with weather data.
+the training set is comprised of the first 20 days of each month, while the test set is the 21th to the end of the month.
+predict the total count of bikes rented during each hour covered by the test set, using only information available prior to the rental period.
+link for kaggle notebook !</description>
+    </item>
+    
+    <item>
+      <title>Car Crashes&#39; Severity Prediction</title>
+      <link>https://nohamoamary.github.io/projects/car-crashes-severity/</link>
+      <pubDate>Wed, 28 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://nohamoamary.github.io/projects/car-crashes-severity/</guid>
+      <description>predict the Severity of a car crash given info about the crash, e.g., location.
+link for kaggle notebook !</description>
+    </item>
+    
+  </channel>
+</rss>

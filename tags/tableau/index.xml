@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>tableau on </title>
+    <link>https://nohamoamary.github.io/tags/tableau/</link>
+    <description>Recent content in tableau on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 18 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://nohamoamary.github.io/tags/tableau/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Global terrorism analysis</title>
+      <link>https://nohamoamary.github.io/projects/tableau-project/</link>
+      <pubDate>Fri, 18 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://nohamoamary.github.io/projects/tableau-project/</guid>
+      <description>Task 4 as Data Science and Business Analytics intern at The Sparks Foundation.
+Performing exploratory data analysis on the Global terrorism dataset.
+link for Tableau Project !</description>
+    </item>
+    
+  </channel>
+</rss>

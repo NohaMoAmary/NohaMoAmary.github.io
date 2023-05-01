@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sentimental on </title>
+    <link>https://nohamoamary.github.io/tags/sentimental/</link>
+    <description>Recent content in Sentimental on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 12 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://nohamoamary.github.io/tags/sentimental/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sentimental Analysis of Arabic tweets</title>
+      <link>https://nohamoamary.github.io/projects/sentimental-analysis/</link>
+      <pubDate>Sun, 12 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://nohamoamary.github.io/projects/sentimental-analysis/</guid>
+      <description>In this project ,Sentimental analysis is done on Arabic tweets .An Arabic-Bert-base model from hugging face is used, it was pretrained on ~8.2 Billion words which sum up to ~95GB of text. The model achieved an accuracy of 90.16% and AUC of 0.966 on test set.
+1- Dataset was found on kaggle at this link: https://www.kaggle.com/mksaad/arabic-sentiment-twitter-corpus 2- Some preprocessing was done before using BERT including:
+Normalize Unicode encoding Removing urls,@,trailing white spaces Add [CLS] and [SEP] to the beginning and end of each sentence set a max_length through truncating or padding 3- A Bert classifier is used , along with Adam optimizer and a learning rate scheduler.</description>
+    </item>
+    
+  </channel>
+</rss>

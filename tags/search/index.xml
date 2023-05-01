@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>search on </title>
+    <link>https://nohamoamary.github.io/tags/search/</link>
+    <description>Recent content in search on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 02 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://nohamoamary.github.io/tags/search/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>STYLA</title>
+      <link>https://nohamoamary.github.io/projects/image-search/</link>
+      <pubDate>Thu, 02 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nohamoamary.github.io/projects/image-search/</guid>
+      <description>&lt;p&gt;An AI-Powered outfit recommender system for everyday use addresses the challenge of selecting the right outfit that matches personal style preferences and is appropriate for different occasions.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

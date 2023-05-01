@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on </title>
+    <link>https://nohamoamary.github.io/page/</link>
+    <description>Recent content in Pages on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 15 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://nohamoamary.github.io/page/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About Me 👩‍💻</title>
+      <link>https://nohamoamary.github.io/page/about/</link>
+      <pubDate>Sat, 15 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nohamoamary.github.io/page/about/</guid>
+      <description>Hello, my name is Noha and I am a software engineer and data scientist with expertise in machine learning. I began my career as a software engineer, where I honed my skills in algorithm development and programming. After two years in the industry, I took a break to explore other interests and gain new experiences. During this time, I discovered a passion for data science and machine learning. I decided to pursue this interest by diving into various online courses and attending workshops.</description>
+    </item>
+    
+    <item>
+      <title>Contact Information 📮</title>
+      <link>https://nohamoamary.github.io/page/contacts/</link>
+      <pubDate>Sat, 15 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nohamoamary.github.io/page/contacts/</guid>
+      <description>📧 E-mail: noha.mgomaa@gmail.com 👥 LinkedIn: Noha Moamary
+💻 GitHub: NohaMoAmary
+📄 Resume: View PDF
+📜 Certificate: Certificate folder</description>
+    </item>
+    
+  </channel>
+</rss>
